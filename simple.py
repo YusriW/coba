@@ -1,5 +1,4 @@
 import streamlit as st
-import plotly_express as px
 import numpy as np
 #from sklearn.linear_model import LogisticRegression
 #from sklearn.neighbors import _dist_metrics
